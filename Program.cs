@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Reflection.Metadata;
 using System.Xml.Serialization;
 
-namespace SelectionSort
+namespace SortingAlgorithms
 {
     class Program
     {
